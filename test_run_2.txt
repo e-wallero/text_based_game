@@ -1,0 +1,177 @@
+> python3 textGame.py gameConfiguration.txt
+
+Welcome to the game!
+You are an expert jewelry thief, and you have found the residence 
+of one of the foremost Victorian jewelry collectors in New Yorks's Upper 
+East side. He is away on vacation with his wife. You must find the necklace that
+the collector recently bought at auction for his wife somewhere in the home. 
+You will teleport out of the house after you grab the necklace.
+
+Good luck!
+
+Would you like to play the game with maximum or minimum difficulty?
+Options: min, max
+> max
+You have picked the maximum level of difficulty
+
+There is a problem, you have set off the alarm as you entered the house!
+It has automatically called the police. 
+They will be here in 3 minutes
+That is the maximum amount of time you have to find the necklace in the house and take it.
+Time passed: 0 seconds
+> show
+
+You are in the Foyer.
+There are doors towards E, S.
+Here are the following items:
+vase
+
+Time passed: 14 seconds
+> take vause
+vause is not in the room
+Time passed: 20 seconds
+> take vase
+vase is not movable
+Time passed: 28 seconds
+> holding
+water
+flashlight
+Time passed: 31 seconds
+> commands
+These are the available commands:
+
+go DIR
+take ITEM
+release ITEM
+holding
+open DIR
+show
+commands
+open ITEM
+unlock DIR
+quit
+Time passed: 36 seconds
+> release flashlight
+You have released flashlight
+Time passed: 51 seconds
+> release dog
+dog is not in your backpack.
+Time passed: 55 seconds
+> go W
+You cannot move in that direction
+Time passed: 61 seconds
+> go S
+The door is closed. You have to open the door.
+Time passed: 65 seconds
+> unlock S
+You do not have the key to unlock any locked doors
+Time passed: 69 seconds
+> unlock W
+You do not have the key to unlock any locked doors
+Time passed: 75 seconds
+> open S
+You have opened the door
+Time passed: 79 seconds
+> go S
+
+You are in the Utility.
+There are doors towards N.
+Here are the following items:
+key
+
+Time passed: 83 seconds
+> take kaosfs
+kaosfs is not in the room
+Time passed: 88 seconds
+> take key
+You have taken the following item: key
+Time passed: 91 seconds
+> holding
+water
+key
+Time passed: 96 seconds
+> go E
+You cannot move in that direction
+Time passed: 98 seconds
+> go N
+
+You are in the Foyer.
+There are doors towards E, S.
+Here are the following items:
+vase
+flashlight
+
+Time passed: 102 seconds
+> dkf nsp
+That is not an intelligible command. Try again.
+Time passed: 105 seconds
+> LKSJL k k k sd 
+That is not an intelligible command. Try again.
+Time passed: 110 seconds
+> go E
+
+You are in the Parlour.
+There are doors towards W, E.
+
+Time passed: 112 seconds
+> show
+
+You are in the Parlour.
+There are doors towards W, E.
+
+Time passed: 114 seconds
+> show
+
+You are in the Parlour.
+There are doors towards W, E.
+
+Time passed: 118 seconds
+> go N
+You cannot move in that direction
+Time passed: 119 seconds
+> go E
+
+You are in the Study.
+There are doors towards W, S.
+Here are the following items:
+book
+
+Time passed: 122 seconds
+> open E
+There is no door in that direction.
+Time passed: 128 seconds
+> open S
+You cannot open this door unless you have a key
+Try the unlock-command
+Time passed: 131 seconds
+> unlock N
+There is no door in that direction
+Time passed: 152 seconds
+> unlock S
+You have unlocked the door
+Time passed: 154 seconds
+> open S
+You have opened the door
+Time passed: 165 seconds
+> go S
+
+You are in the Salon.
+There are doors towards N, W.
+
+Time passed: 167 seconds
+> go W
+
+You are in the Bedroom.
+There are doors towards E.
+Here are the following items:
+chest
+statue
+
+Time passed: 175 seconds
+> open statue
+This item is not usable.
+Time passed: 180 seconds
+
+GAME OVER
+
+

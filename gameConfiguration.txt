@@ -1,0 +1,23 @@
+#Rooms
+room Foyer
+room Utility
+room Parlour
+room Study
+room Salon 
+room Bedroom
+#Doors
+door E-W open Foyer Parlour
+door S-N closed Foyer Utility
+#door E-W locked Utility Bedroom 
+door E-W open Parlour Study
+door S-N locked Study Salon 
+door W-E open Salon Bedroom
+#Items
+item key Utility USE unlock 
+item vase Foyer STATIONARY
+item book Study STATIONARY
+item chest Bedroom USE open
+item necklace Bedroom MOVE hidden
+item statue Bedroom STATIONARY
+#Start position
+start Foyer

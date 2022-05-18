@@ -1,0 +1,107 @@
+> python3 textGame.py gameConfiguration.txt
+
+Welcome to the game!
+You are an expert jewelry thief, and you have found the residence 
+of one of the foremost Victorian jewelry collectors in New Yorks's Upper 
+East side. He is away on vacation with his wife. You must find the necklace that
+the collector recently bought at auction for his wife somewhere in the home. 
+You will teleport out of the house after you grab the necklace.
+
+Good luck!
+
+Would you like to play the game with maximum or minimum difficulty?
+Options: min, max
+> max
+You have picked the maximum level of difficulty
+
+There is a problem, you have set off the alarm as you entered the house!
+It has automatically called the police. 
+They will be here in 3 minutes
+That is the maximum amount of time you have to find the necklace in the house and take it.
+Time passed: 0 seconds
+> open S
+You have opened the door
+Time passed: 2 seconds
+> go S
+
+You are in the Utility.
+There are doors towards N.
+Here are the following items:
+key
+
+Time passed: 6 seconds
+> take key
+You have taken the following item: key
+Time passed: 8 seconds
+> release water
+You have released water
+Time passed: 14 seconds
+> take water
+You have taken the following item: water
+Time passed: 19 seconds
+> go N
+
+You are in the Foyer.
+There are doors towards E, S.
+Here are the following items:
+vase
+
+Time passed: 23 seconds
+> go   N
+You cannot move in that direction
+Time passed: 25 seconds
+> go   E
+
+You are in the Parlour.
+There are doors towards W, E.
+
+Time passed: 30 seconds
+> go E
+
+You are in the Study.
+There are doors towards W, S.
+Here are the following items:
+book
+
+Time passed: 35 seconds
+> unlock S
+You have unlocked the door
+Time passed: 43 seconds
+> open S
+You have opened the door
+Time passed: 48 seconds
+> go S
+
+You are in the Salon.
+There are doors towards N, W.
+
+Time passed: 50 seconds
+> go W
+
+You are in the Bedroom.
+There are doors towards E.
+Here are the following items:
+chest
+statue
+
+Time passed: 52 seconds
+> open chest
+You have opened the chest
+Time passed: 57 seconds
+> show
+
+You are in the Bedroom.
+There are doors towards E.
+Here are the following items:
+chest
+statue
+necklace
+
+Time passed: 60 seconds
+> take necklace
+You have taken the following item: necklace
+Time passed: 64 seconds
+
+YOU HAVE WON THE GAME
+
+
